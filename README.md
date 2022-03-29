@@ -1,4 +1,4 @@
-# mips
+# MIPS Project
   MIPS processor in SystemVerilog. Made from scratch with limited instructions (from MIPS ISA)
   THIS IS A UNIVERSITY PROJECT - NOT MODIFIED SINCE 2021, it could be optimize (adding Immediate instructions or interrupts handling) 
   
